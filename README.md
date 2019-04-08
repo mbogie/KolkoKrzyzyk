@@ -1,0 +1,2 @@
+# KolkoKrzyzyk
+Gra kółko-krzyżyk
